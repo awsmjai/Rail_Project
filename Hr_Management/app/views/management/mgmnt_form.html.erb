@@ -1,0 +1,9 @@
+<center>
+<%= form_tag("/depart", method: "post") do %>
+<pre>
+  <h2><b><i>Depart-Name</i></b>:     <%= text_field_tag(:name) %><br></h2>
+  <h2><b><i>Role</i></b>:            <%= text_field_tag(:role) %><br></h2>
+  <h2><b><i>Salary</i></b>:          <%= text_field_tag(:sal) %><br></h2>
+  <%= submit_tag("submit") %></pre>
+<% end %>
+</center>

@@ -1,0 +1,1000 @@
+  399  LS
+  400  ls
+  401  nano example1.sh 
+  402  git status
+  403  git commit -m "3rd"
+  404  git commit -m "3rd" example1.sh
+  405  git push -u origin master
+  406  cd ~
+  407  mkdir `date`
+  408  cd Desktop
+  409  cd ~
+  410  cd Desktop
+  411  history > ~/`date`.txt
+  412  mkdir history
+  413  cd history
+  414  history >  touch $(date +"%d-%m-%Y:%T").txt
+  415  cd ~
+  416  history
+  417  history > ~/ touch $(date +"%d-%m-%Y:%T").txt
+  418  cd Desktop/
+  419  history > ~/ touch $(date +"%d-%m-%Y:%T").txt
+  420  cd history
+  421  history > ~/ touch $(date +"%d-%m-%Y:%T").txt
+  422  cd ~
+  423  mkdir todayhistory
+  424  cd todayhistory/
+  425  history > ~/file.txt
+  426  ls
+  427  cd ..
+  428  cd todayhistory/
+  429  vi file.txt
+  430  history > ~/file.txt
+  431  vi file
+  432  vi file.txt
+  433  history > ~/file.txt
+  434  ls
+  435  vi file1.txt
+  436  cd ~
+  437  vi file2.txt
+  438  vi file5.txt
+  439  history > ~/file5.txt
+  440  vi  touch $(date +"%d-%m-%Y:%T").txt
+  441  history > ~/ touch $(date +"%d-%m-%Y:%T").txt
+  442  history > ~/ $(date +"%d-%m-%Y:%T").txt
+  443  cd ~
+  444  mv file.txt touch $(date +"%d-%m-%Y:%T").txt
+  445  mv file.txt `touch $(date +"%d-%m-%Y:%T")`.txt
+  446  cd test2
+  447  git init
+  448  git add .
+  449  git commit -m "priyanka commit"
+  450  git remote add origin https://github.com/awsmjai/priyanka.git
+  451  git push -u origin master
+  452  cd ~
+  453  mkdir  touch $(date +"%d-%m-%Y:%T")
+  454  ls
+  455  cd 08-01-2015:16:21:29
+  456  history > ~/(08-01-2015:16:21:29).txt
+  457  history > ~/08-01-2015:16:21:29.txt
+  458  vi 08-01-2015:16:21:29.txt
+  459  history > ~/08-01-2015:16:21:29.txt
+  460  history > 08-01-2015:16:21:29.txt
+  461  cd  08-01-2015:16:21:29
+  462  git init
+  463  git add .
+  464  git commit -m "8th jan 2015 history"
+  465  git remote add origin https://github.com/awsmjai/Everyday-History.git
+  466  git push -u origin master
+  467  cd ~
+  468  git init
+  469  git add practice1.sh
+  470  git commit -m "shell example"
+  471  git remote add origin https://github.com/awsmjai/practice.git
+  472  git push -u origin master
+  473  mv saddam practice2
+  474  gitinit
+  475  git init
+  476  git add practice2
+  477  git commit -m "shell example 2"
+  478  git remote add origin https://github.com/awsmjai/practice.git
+  479  git push -u origin master
+  480  cd practice2
+  481  git init
+  482  git add example1.sh example2.sh
+  483  git commit -m "shell examples"
+  484  git remote add origin https://github.com/awsmjai/practice.git
+  485  git push -u origin master
+  486  git init
+  487  git add example1.sh
+  488  git commit -m "shell examples"
+  489  mv example1.sh jai1.sh
+  490  mv example2.sh jai2.sh
+  491  git init
+  492  git add jai1.sh
+  493  git commit -m "shell examples"
+  494  git remote add origin https://github.com/awsmjai/practice.git
+  495  git push -u origin master
+  496  cd~
+  497  cd ~
+  498  cd Thu
+  499  git init
+  500  git add jai.sh
+  501  git add jai1.sh
+  502  git commit -m "shell examples"
+  503  git remote add origin https://github.com/awsmjai/practice.git
+  504  git push -u origin master
+  505  git init
+  506  git add jai1.sh
+  507  git commit -m "shell examples"
+  508  git add jai2.sh
+  509  git commit -m "shell examples"
+  510  git remote add origin https://github.com/awsmjai/practice2.git
+  511  git push -u origin master
+  512  mkdir folder
+  513  cd folder
+  514  vi folder
+  515  git clone https://github.com/awsmjai/practice.git
+  516  git add .
+  517  git commit -m "folder transfer"
+  518  git push -u origin master
+  519  CD ~
+  520  cd ~
+  521  mkdir new
+  522  cd new
+  523  vi newf
+  524  git clone https://github.com/awsmjai/practice.git
+  525  git add .
+  526  git commit -m "2nd folder transfer"
+  527  git push -u origin master
+  528  cd ~
+  529  apt-get install mysql-server-5.6
+  530  root@ubuntu1404:~# apt-get install mysql-server-5.6
+  531  root
+  532  sudo apt-get update
+  533  sudo apt-get install mysql-server-5.6
+  534  mysql -u root -p
+  535  sudo apt-get update
+  536  sudo apt-get install mysql-query-browser
+  537  sudo service mysql start
+  538  mysql -u root -p
+  539  sql -u root -p
+  540  mysql -u root -p
+  541  cd desktop
+  542  cd Desktop
+  543  cd history
+  544  cd ..
+  545  history > history
+  546  vi file
+  547  history > file
+  548  cd history
+  549  history > file
+  550  mysql -u root -p
+  551  sudo add-apt-repository -y ppa:webupd8team/sublime-text-3
+  552  sudo apt-get update; sudo apt-get install -y sublime-text-installer
+  553  mysql -u root -p
+  554  sudo apt-get update;
+  555  sudo apt-get install mysql-server
+  556  sudo apt-get install mysql-admin
+  557  sudo apt-get install mysql-query-browse
+  558  sudo apt-get install mysql-query-browser
+  559  cd ~
+  560  sudo apt-add-repository 'deb http://www.tolaris.com/apt/ precise main'
+  561  wget -q http://www.tolaris.com/apt/tolaris-keyring.gpg -O- | sudo apt-key add -
+  562  sudo apt-add-repository 'deb http://www.tolaris.com/apt/ precise main'
+  563  wget -q http://www.tolaris.com/apt/tolaris-keyring.gpg -O- | sudo apt-key add -
+  564  sudo apt-get update;
+  565  sudo apt-get install mysql-query-browser
+  566  cd ~
+  567  uname -a
+  568  whoami
+  569  id
+  570  mysql-query-browser
+  571  sudo apt-add-repository 'deb http://www.tolaris.com/apt/ precise main'
+  572  wget -q http://www.tolaris.com/apt/tolaris-keyring.gpg -O- | sudo apt-key add -
+  573  sudo apt-get update
+  574  sudo apt-get install mysql-query-browser
+  575  cd desktop
+  576  cd Desktop
+  577  ls
+  578  cd html practice
+  579  git init
+  580  git add html
+  581  git commit -m "My html Practice"
+  582  git remote add origin https://github.com/awsmjai/Form.git
+  583  git push -u origin master
+  584  cd Desktop
+  585  ls
+  586  cd html
+  587  git init
+  588  cd ..
+  589  cd desktop
+  590  cd Desktop
+  591  cd html
+  592  git clone https://github.com/awsmjai/html_practice.git
+  593  git init
+  594  git add assignment_inline
+  595  git commit -m "assignment"
+  596  git push -u origin master
+  597  git remote add origin https://github.com/awsmjai/html_practice.git
+  598  git push -u origin master
+  599  git pull origin master
+  600  git push -u origin master
+  601  cd ~
+  602  sudo apt-get update
+  603  sudo apt-get install google-chrome-stable
+  604  cd /tmp
+  605  wget https://dl.google.com/linux/direct/google-chrome-stable_current_i386.deb
+  606  sudo dpkg -i google-chrome-stable_current_amd64.deb
+  607  sudo apt-get -f install
+  608  rvm list
+  609  sudo su -c "apt-get install curl"
+  610  sudo su -c "curl -L https://get.rvm.io | bash -s stable"
+  611  sudo apt-add-repository ppa:rael-gc/rvm
+  612  sudo apt-get update
+  613  sudo apt-get install rvm
+  614  source /etc/profile.d/rvm.sh
+  615  sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+  616  man rvm
+  617  rvm list
+  618  man rvm
+  619  rvm list
+  620  sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
+  621  rvm list
+  622  cd
+  623  wget http://ftp.ruby-lang.org/pub/ruby/2.1/ruby-2.1.5.tar.gz
+  624  tar -xzvf ruby-2.1.5.tar.gz
+  625  cd ruby-2.1.5/
+  626  ./configure
+  627  make
+  628  sudo make install
+  629  rvm list
+  630  cd ~
+  631  rvm list
+  632  rvm install ruby_2.0.0
+  633  rvm install ruby 2.0.0
+  634  rvm help
+  635  rvm install ruby_version 2.0.0
+  636  rvm install ruby_version 1.9.3
+  637  rvm list
+  638  curl -L https://get.rvm.io | bash -s stable
+  639  source ~/.rvm/scripts/rvm
+  640  echo "source ~/.rvm/scripts/rvm" >> ~/.bashrc
+  641  rvm install 2.0.0
+  642  rvm use 2.0.0 --default
+  643  ruby -v
+  644  rvm use ruby-2.1.5
+  645  cd ruby-2.1.5
+  646  cd ~
+  647  rvm list known
+  648  cd rvm
+  649  rvm install ruby-2.1.3
+  650  rvm group add rvm "$USER"
+  651  rvm install ruby-2.1.3
+  652  man rvm
+  653  id
+  654  /bin/bash --login
+  655  rvm list
+  656  sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
+  657  rvm install ruby-2.1.3
+  658  rvm install ruby-2.1.5
+  659  rvm list
+  660  rvm install ruby-2.0.0
+  661  rvm install ruby-1.9.3
+  662  rvm list
+  663  use ruby 2.1.5
+  664  rvm use ruby 2.1.5
+  665  rvm list
+  666  man rvm
+  667  /bin/bash --login
+  668  rvm list
+  669  rvm use ruby-2.1.5
+  670  string.methods
+  671  irb
+  672  nano ex1.rb
+  673  ruby ex1.rb
+  674  nano ex1.rb
+  675  cd Desktop
+  676  mkdir ruby
+  677  cd ruby
+  678  nano ex1.rb
+  679  ruby ex1.rb
+  680  nano ex1.rb
+  681  cd ~
+  682  irb
+  683  cd Desktop
+  684  cd ruby
+  685  nano ex2.rb
+  686  ruby ex2.rb
+  687  nano ex2.rb
+  688  ruby ex2.rb
+  689  nano ex2.rb
+  690  ruby ex2.rb
+  691  nano ex2.rb
+  692  ruby ex2.rb
+  693  nano ex2.rb
+  694  ruby ex2.rb
+  695  nano ex2.rb
+  696  ruby ex2.rb
+  697  nano ex2.rb
+  698  ruby ex2.rb
+  699  nano ex2.rb
+  700  ruby ex2.rb
+  701  nano ex2.rb
+  702  ruby ex2.rb
+  703  nano ex2.rb
+  704  ruby ex2.rb
+  705  nano ex2.rb
+  706  ruby ex2.rb
+  707  nano ex2.rb
+  708  ruby ex2.rb
+  709  nano ex2.rb
+  710  ruby ex2.rb
+  711  nano ex2.rb
+  712  ruby ex2.rb
+  713  nano ex2.rb
+  714  ruby ex2.rb
+  715  nano ex2.rb
+  716  ruby ex2.rb
+  717  nano ex2.rb
+  718  ruby ex2.rb
+  719  nano ex3.rb
+  720  ruby ex3.rb
+  721  nano ex4.rb
+  722  ruby ex4.rb
+  723  nano ex4.rb
+  724  ruby ex4.rb
+  725  nano ex5.rb
+  726  ruby ex5.rb
+  727  nano ex5.rb
+  728  ruby ex5.rb
+  729  nano ex5.rb
+  730  ruby ex5.rb
+  731  nano ex5.rb
+  732  ruby ex5.rb
+  733  nano ex5.rb
+  734  nano ex6.rb
+  735  ruby ex6.rb
+  736  nano ex7.rb
+  737  ruby ex7.rb
+  738  nano ex8.rb
+  739  ruby ex8.rb
+  740  nano ex9.rb
+  741  ruby ex9.rb
+  742  nano ex9.rb
+  743  ruby ex9.rb
+  744  nano ex9.rb
+  745  nano ex10.rb
+  746  ruby ex10.rb
+  747  nano ex11.rb
+  748  ruby ex11.rb
+  749  nano ex11.rb
+  750  nano ex12.rb
+  751  ruby ex12.rb
+  752  nano ex12.rb
+  753  ruby ex12.rb
+  754  nano ex12.rb
+  755  ruby ex12.rb
+  756  nano ex13.rb
+  757  ruby ex13.rb
+  758  nano ex14.rb
+  759  ruby ex14.rb
+  760  nano ex14.rb
+  761  ruby ex14.rb
+  762  nano ex14.rb
+  763  ruby ex14.rb
+  764  nano ex14.rb
+  765  ruby ex14.rb
+  766  nano ex14.rb
+  767  ruby ex14.rb
+  768  nano ex14.rb
+  769  ruby ex14.rb
+  770  nano ex14.rb
+  771  ruby ex14.rb
+  772  nano ex14.rb
+  773  ruby ex14.rb
+  774  nano ex14.rb
+  775  nano ex15.rb
+  776  ruby ex15.rb
+  777  cd Desktop
+  778  cd ruby
+  779  nano ex16.rb
+  780  nano ex16_1.rb
+  781  nano ex16.rb
+  782  nano ex16_1.rb
+  783  nano ex16.rb
+  784  nano ex16_1.rb
+  785  ruby ex16.rb
+  786  nano ex16.rb
+  787  nano ex16_1.rb
+  788  ruby ex16.rb
+  789  ruby ex16_1.rb
+  790  nano ex16_1.rb
+  791  ruby ex16_1.rb
+  792  nano ex16_1.rb
+  793  ruby ex16_1.rb
+  794  nano ex16_1.rb
+  795  ruby ex16_1.rb
+  796  nano ex16_1.rb
+  797  ruby ex16_1.rb
+  798  ruby ex16.rb
+  799  ruby ex16_1.rb
+  800  nano ex16_1.rb
+  801  nano ex16.rb
+  802  nano ex16_1.rb
+  803  nano ex16.rb
+  804  nano ex16_1.rb
+  805  ruby ex16_1.rb
+  806  nano ex16_1.rb
+  807  ruby ex16_1.rb
+  808  nano ex16_1.rb
+  809  ruby ex16_1.rb
+  810  nano ex16_1.rb
+  811  nano ex17.rb
+  812  ruby ex17.rb
+  813  nano ex17.rb
+  814  ruby ex17.rb
+  815  nano ex17.rb
+  816  ruby ex17.rb
+  817  nano ex17.rb
+  818  ruby ex17.rb
+  819  nano ex17.rb
+  820  ruby ex17.rb
+  821  nano ex17.rb
+  822  ruby ex17.rb
+  823  nano ex17.rb
+  824  ruby ex17.rb
+  825  nano ex17.rb
+  826  ruby ex17.rb
+  827  nano ex17.rb
+  828  ruby ex17.rb
+  829  nano ex17.rb
+  830  ruby ex17.rb
+  831  nano ex17.rb
+  832  ruby ex17.rb
+  833  nano ex17.rb
+  834  ruby ex17.rb
+  835  nano ex17.rb
+  836  ruby ex17.rb
+  837  nano ex17.rb
+  838  ruby ex17.rb
+  839  nano ex17.rb
+  840  ruby ex17.rb
+  841  nano ex17.rb
+  842  ruby ex17.rb
+  843  nano ex17.rb
+  844  ruby ex17.rb
+  845  nano ex17.rb
+  846  ruby ex17.rb
+  847  nano ex17.rb
+  848  ruby ex17.rb
+  849  nano ex17.rb
+  850  ruby ex17.rb
+  851  nano ex17.rb
+  852  ruby ex17.rb
+  853  nano ex17.rb
+  854  ruby ex17.rb
+  855  nano ex17.rb
+  856  ruby ex17.rb
+  857  nano ex17.rb
+  858  ruby ex17.rb
+  859  nano ex17.rb
+  860  ruby ex17.rb
+  861  nano ex17.rb
+  862  ruby ex17.rb
+  863  nano ex17.rb
+  864  ruby ex17.rb
+  865  nano ex17.rb
+  866  ruby ex17.rb
+  867  nano ex18.rb
+  868  ruby ex18.rb
+  869  nano ex18.rb
+  870  ruby ex18.rb
+  871  nano ex18.rb
+  872  ruby ex18.rb
+  873  nano ex18.rb
+  874  ruby ex18.rb
+  875  nano ex18.rb
+  876  ruby ex18.rb
+  877  nano ex18.rb
+  878  ruby ex18.rb
+  879  nano ex18.rb
+  880  ruby ex18.rb
+  881  nano ex18.rb
+  882  nano ex19.rb
+  883  ruby ex19.rb
+  884  nano ex19.rb
+  885  ruby ex19.rb
+  886  nano ex19.rb
+  887  ruby ex19.rb
+  888  nano ex19.rb
+  889  ruby ex19.rb
+  890  nano ex19.rb
+  891  ruby ex19.rb
+  892  nano ex19.rb
+  893  ruby ex19.rb
+  894  nano ex19.rb
+  895  ruby ex19.rb
+  896  nano ex20.rb
+  897  ruby ex20.rb
+  898  ruby ex21.rb
+  899  nano ex21.rb
+  900  ruby ex21.rb
+  901  nano ex20.rb
+  902  nano ex21.rb
+  903  ruby ex21.rb
+  904  nano ex21.rb
+  905  ruby ex21.rb
+  906  nano ex21.rb
+  907  ruby ex21.rb
+  908  nano ex21.rb
+  909  ruby ex21.rb
+  910  nano ex21.rb
+  911  ruby ex21.rb
+  912  nano ex22.rb
+  913  ruby ex22.rb
+  914  nano ex22.rb
+  915  ruby ex22.rb
+  916  nano ex22.rb
+  917  ruby ex22.rb
+  918  nano ex22.rb
+  919  nano ex23.txt
+  920  nano ex24.rb
+  921  ruby ex24.rb
+  922  nano ex25.rb
+  923  ruby ex25.rb
+  924  nano ex25.rb
+  925  ruby ex25.rb
+  926  nano ex25.rb
+  927  nano ex23.rb
+  928  nano ex23.txt
+  929  nano ex25.rb
+  930  nano ex23.txt
+  931  nano ex26.rb
+  932  ruby ex26.rb
+  933  nano ex26.rb
+  934  ruby ex26.rb
+  935  nano ex26.rb
+  936  ruby ex26.rb
+  937  nano ex26.rb
+  938  ruby ex26.rb
+  939  nano ex27.rb
+  940  ruby ex27.rb
+  941  nano ex27.rb
+  942  ruby ex27.rb
+  943  nano ex27.rb
+  944  ruby ex27.rb
+  945  nano ex27.rb
+  946  ruby ex27.rb
+  947  nano ex27.rb
+  948  ruby ex27.rb
+  949  nano ex27.rb
+  950  ruby ex27.rb
+  951  nano ex27.rb
+  952  ruby ex27.rb
+  953  nano ex27.rb
+  954  ruby ex27.rb
+  955  nano ex28.rb
+  956  ruby ex28.rb
+  957  nano ex28.rb
+  958  ruby ex28.rb
+  959  nano ex28.rb
+  960  ruby ex28.rb
+  961  nano ex28.rb
+  962  ruby ex28.rb
+  963  nano ex28.rb
+  964  ruby ex28.rb
+  965  nano ex28.rb
+  966  ruby ex28.rb
+  967  nano ex28.rb
+  968  ruby ex28.rb
+  969  nano ex28.rb
+  970  ruby ex28.rb
+  971  nano ex28.rb
+  972  ruby ex28.rb
+  973  nano ex28.rb
+  974  ruby ex28.rb
+  975  nano ex28.rb
+  976  ruby ex28.rb
+  977  nano ex28.rb
+  978  ruby ex28.rb
+  979  nano ex28.rb
+  980  ruby ex28.rb
+  981  nano ex28.rb
+  982  ruby ex28.rb
+  983  nano ex28.rb
+  984  ruby ex28.rb
+  985  nano ex28.rb
+  986  ruby ex28.rb
+  987  nano ex28.rb
+  988  ruby ex28.rb
+  989  nano ex28.rb
+  990  ruby ex28.rb
+  991  nano ex28.rb
+  992  ruby ex28.rb
+  993  nano ex28.rb
+  994  ruby ex28.rb
+  995  cd ~
+  996  irb
+  997  cd Desktop
+  998  cd ruby
+  999  git init
+ 1000  cd ..
+ 1001  git init
+ 1002  git add ruby
+ 1003  git commit -m "ruby's Example"
+ 1004  git remote add origin https://github.com/awsmjai/Ruby_Practice.git
+ 1005  git push -u origin master
+ 1006  git pull origin master
+ 1007  git remote add origin https://github.com/awsmjai/Ruby_Practice.git
+ 1008  git push -u origin master
+ 1009  cd Desktop
+ 1010  cd ruby
+ 1011  irb
+ 1012  nano ex28.rb
+ 1013  nano ex29.rb
+ 1014  ruby ex29.rb
+ 1015  nano ex29.rb
+ 1016  ruby ex29.rb
+ 1017  nano ex29.rb
+ 1018  irb
+ 1019  nano ex29.rb
+ 1020  ruby ex29.rb
+ 1021  nano ex29.rb
+ 1022  ruby ex29.rb
+ 1023  nano ex29.rb
+ 1024  ruby ex29.rb
+ 1025  nano ex29.rb
+ 1026  ruby ex29.rb
+ 1027  nano ex29.rb
+ 1028  nano ex30.rb
+ 1029  ruby ex30.rb
+ 1030  nano ex30.rb
+ 1031  ruby ex30.rb
+ 1032  nano ex30.rb
+ 1033  ruby ex30.rb
+ 1034  nano ex30.rb
+ 1035  ruby ex30.rb
+ 1036  nano ex30.rb
+ 1037  nano ex31.rb
+ 1038  ruby ex31.rb
+ 1039  nano ex31.rb
+ 1040  ruby ex31.rb
+ 1041  nano ex31.rb
+ 1042  ruby ex31.rb
+ 1043  nano ex31.rb
+ 1044  ruby ex31.rb
+ 1045  nano ex31.rb
+ 1046  ruby ex31.rb
+ 1047  nano ex31.rb
+ 1048  nano ex32.rb
+ 1049  ruby ex32.rb
+ 1050  nano ex32.rb
+ 1051  ruby ex32.rb
+ 1052  nano ex32.rb
+ 1053  ruby ex32.rb
+ 1054  nano ex32.rb
+ 1055  ruby ex32.rb
+ 1056  nano ex32.rb
+ 1057  ruby ex32.rb
+ 1058  nano ex32.rb
+ 1059  ruby ex32.rb
+ 1060  nano ex32.rb
+ 1061  ruby ex32.rb
+ 1062  nano ex32.rb
+ 1063  ruby ex32.rb
+ 1064  nano ex32.rb
+ 1065  ruby ex32.rb
+ 1066  nano ex32.rb
+ 1067  ruby ex32.rb
+ 1068  nano ex32.rb
+ 1069  ruby ex32.rb
+ 1070  nano ex32.rb
+ 1071  ruby ex32.rb
+ 1072  nano ex32.rb
+ 1073  ruby ex32.rb
+ 1074  nano ex32.rb
+ 1075  ruby ex32.rb
+ 1076  nano armstrong.rb
+ 1077  ruby armstrong.rb
+ 1078  nano armstrong.rb
+ 1079  ruby armstrong.rb
+ 1080  nano armstrong.rb
+ 1081  ruby armstrong.rb
+ 1082  nano armstrong.rb
+ 1083  ruby armstrong.rb
+ 1084  nano armstrong.rb
+ 1085  ruby armstrong.rb
+ 1086  nano armstrong.rb
+ 1087  ruby armstrong.rb
+ 1088  nano armstrong.rb
+ 1089  ruby armstrong.rb
+ 1090  nano armstrong.rb
+ 1091  ruby armstrong.rb
+ 1092  nano armstrong.rb
+ 1093  ruby armstrong.rb
+ 1094  nano armstrong.rb
+ 1095  ruby armstrong.rb
+ 1096  nano armstrong.rb
+ 1097  ruby armstrong.rb
+ 1098  nano armstrong.rb
+ 1099  ruby armstrong.rb
+ 1100  nano armstrong.rb
+ 1101  ruby armstrong.rb
+ 1102  nano armstrong.rb
+ 1103  ruby armstrong.rb
+ 1104  nano armstrong.rb
+ 1105  ruby armstrong.rb
+ 1106  nano armstrong.rb
+ 1107  ruby armstrong.rb
+ 1108  nano armstrong.rb
+ 1109  ruby armstrong.rb
+ 1110  nano armstrong.rb
+ 1111  ruby armstrong.rb
+ 1112  nano armstrong.rb
+ 1113  ruby armstrong.rb
+ 1114  nano armstrong.rb
+ 1115  ruby armstrong.rb
+ 1116  nano armstrong.rb
+ 1117  ruby armstrong.rb
+ 1118  nano armstrong.rb
+ 1119  nano vowels.rb
+ 1120  ruby vowels.rb
+ 1121  nano vowels.rb
+ 1122  y
+ 1123  ruby vowels.rb
+ 1124  nano vowels.rb
+ 1125  ruby vowels.rb
+ 1126  nano vowels.rb
+ 1127  ruby vowels.rb
+ 1128  nano vowels.rb
+ 1129  ruby vowels.rb
+ 1130  nano vowels.rb
+ 1131  ruby vowels.rb
+ 1132  nano vowels.rb
+ 1133  ruby vowels.rb
+ 1134  nano vowels.rb
+ 1135  ruby vowels.rb
+ 1136  irb
+ 1137  nano vowels.rb
+ 1138  ruby vowels.rb
+ 1139  nano vowels.rb
+ 1140  ruby vowels.rb
+ 1141  nano vowels.rb
+ 1142  ruby vowels.rb
+ 1143  nano vowels.rb
+ 1144  ruby vowels.rb
+ 1145  nano vowels.rb
+ 1146  ruby vowels.rb
+ 1147  nano vowels.rb
+ 1148  ruby vowels.rb
+ 1149  nano vowels.rb
+ 1150  ruby vowels.rb
+ 1151  nano vowels.rb
+ 1152  ruby vowels.rb
+ 1153  nano vowels.rb
+ 1154  ruby vowels.rb
+ 1155  nano vowels.rb
+ 1156  ruby vowels.rb
+ 1157  nano vowels.rb
+ 1158  ruby vowels.rb
+ 1159  nano vowels.rb
+ 1160  ruby vowels.rb
+ 1161  nano vowels.rb
+ 1162  ruby vowels.rb
+ 1163  nano vowels.rb
+ 1164  ruby vowels.rb
+ 1165  nano vowels.rb
+ 1166  ruby vowels.rb
+ 1167  nano vowels.rb
+ 1168  ruby vowels.rb
+ 1169  nano vowels.rb
+ 1170  ruby vowels.rb
+ 1171  nano vowels.rb
+ 1172  ruby vowels.rb
+ 1173  nano vowels.rb
+ 1174  ruby vowels.rb
+ 1175  nano vowels.rb
+ 1176  ruby vowels.rb
+ 1177  nano vowels.rb
+ 1178  nano emp.rb
+ 1179  nano ex32.rb
+ 1180  nano ex31.rb
+ 1181  ruby ex31.rb
+ 1182  nano ex31.rb
+ 1183  ruby ex31.rb
+ 1184  nano ex31.rb
+ 1185  ruby ex31.rb
+ 1186  nano ex31.rb
+ 1187  nano ex33.rb
+ 1188  ruby ex33.rb
+ 1189  nano ex33.rb
+ 1190  nano ex31.rb
+ 1191  nano ex33.rb
+ 1192  ruby ex31.rb
+ 1193  nano ex33.rb
+ 1194  nano ex31.rb
+ 1195  nano armstrong.rb
+ 1196  ruby armstrong.rb
+ 1197  nano armstrong.rb
+ 1198  nano ex31.rb
+ 1199  ruby ex31.rb
+ 1200  nano ex31.rb
+ 1201  ruby ex31.rb
+ 1202  nano ex31.rb
+ 1203  ruby ex31.rb
+ 1204  nano ex31.rb
+ 1205  ruby ex31.rb
+ 1206  nano ex31.rb
+ 1207  ruby ex31.rb
+ 1208  nano ex31.rb
+ 1209  ruby ex31.rb
+ 1210  nano ex31.rb
+ 1211  ruby ex31.rb
+ 1212  nano ex31.rb
+ 1213  ruby ex32.rb
+ 1214  nano ex32.rb
+ 1215  nano armstrong.rb
+ 1216  ruby armstrong.rb 
+ 1217  nano armstrong.rb
+ 1218  ruby armstrong.rb 
+ 1219  nano armstrong.rb
+ 1220  ruby armstrong.rb 
+ 1221  nano armstrong.rb
+ 1222  ruby vowels.rb 
+ 1223  nano vowels.rb
+ 1224  nano 31.rb
+ 1225  nano ex31.rb
+ 1226  ruby ex31.rb 
+ 1227  nano ex31.rb
+ 1228  ruby ex31.rb 
+ 1229  nano ex31.rb
+ 1230  ruby ex31.rb 
+ 1231  nano ex31.rb
+ 1232  ruby ex31.rb 
+ 1233  nano ex31.rb
+ 1234  nano vowels.rb
+ 1235  nano armstrong.rb
+ 1236  nano ex32.rb
+ 1237  git pull origin master
+ 1238  git add .
+ 1239  git commit -m "programs"
+ 1240  git push -u origin master
+ 1241  man rvm
+ 1242  /bin/bash --login
+ 1243  man rvm
+ 1244  rvm list
+ 1245  rvm install ruby-2.2.0
+ 1246  irb
+ 1247  cd Desktop
+ 1248  cd ruby
+ 1249  nano ex34.rb
+ 1250  cd ~
+ 1251  gem install rails
+ 1252  rails -v
+ 1253  ruby -v
+ 1254  mkdir Rails_Project
+ 1255  cd Rails_Project
+ 1256  rails new Hr_Management -d mysql
+ 1257  ls
+ 1258  cd Hr_Management
+ 1259  ls
+ 1260  nano config.ru
+ 1261  rake db:create
+ 1262  cd Hr_Management
+ 1263  ls
+ 1264  cd Desktop/
+ 1265  ls
+ 1266  cd ~
+ 1267  cd Rails_Project
+ 1268  cd Hr_Management/
+ 1269  rake db:create
+ 1270  sudo apt-get install libmysqlclient-dev
+ 1271  bundle install
+ 1272  sudo apt-get install bundler
+ 1273  gem list
+ 1274  bundle install
+ 1275  gem list
+ 1276  rake db:create
+ 1277  gem list
+ 1278  rvm list
+ 1279  ruby -v
+ 1280  rails -v
+ 1281  /bin/bash --login
+ 1282  man rvm
+ 1283  man rails
+ 1284  man rail
+ 1285  rail -v
+ 1286  rails -v
+ 1287  gem install rails
+ 1288  rails -v
+ 1289  cd Ruby_project
+ 1290  cd Ruby_Project
+ 1291  cd Rails_Project
+ 1292  bundle install
+ 1293  rake db:create
+ 1294  rails s
+ 1295  history
+ 1296  cd Ruby_practice
+ 1297  cd Ruby_Practice
+ 1298  cd Rails_Practice
+ 1299  cd Rails_Project
+ 1300  cd Hr_Management
+ 1301  rails s
+ 1302  cd ~
+ 1303  rails s
+ 1304  cd Rails_Project
+ 1305  cd Hr_Management
+ 1306  rails s
+ 1307  man rails
+ 1308  cd ..
+ 1309  man rails
+ 1310  cd Hr_Management
+ 1311  rvm use ruby-2.2.0
+ 1312  /bin/bash --login
+ 1313  cd ..
+ 1314  rvm list
+ 1315  rvm use ruby-2.2.0
+ 1316  rails -v
+ 1317  cd Rails_project
+ 1318  cd Rails_Project
+ 1319  cd Hr_management
+ 1320  cd Hr_Management
+ 1321  rails s
+ 1322  bundle install
+ 1323  rails s
+ 1324  rails generate model employee
+ 1325  rake db:migrate
+ 1326  rails generate migration add_column_to_employees
+ 1327  rake db:migrate
+ 1328  rails generate migration add_column_to_employees
+ 1329  rake db:migrate
+ 1330  rails generate migration add_column_to_employees
+ 1331  rake db:migrate
+ 1332  rails generate migration add_xyz_column
+ 1333  rake db:migrate
+ 1334  rails generate migration add_addrs_column
+ 1335  rake db:migrate
+ 1336  rails generate migration add_de_column
+ 1337  rake db:migrate
+ 1338  rails c
+ 1339  rails generate model employee
+ 1340  rails generate model department
+ 1341  rails generate migration add_dep_column
+ 1342  rake db:migrate
+ 1343  rails generate migration add_addrsujuj._column
+ 1344  rails generate migration add_namec_column
+ 1345  rake db:migrate
+ 1346  rails generate migration add_dep_column
+ 1347  rails generate migration add_depc_column
+ 1348  rake db:migrate
+ 1349  rails generate migration add_role_column
+ 1350  rake db:migrate
+ 1351  rails generate migration add_salary_column
+ 1352  rake db:migrate
+ 1353  rails c
+ 1354  rails generate migration add_salarys_column
+ 1355  rake db:migrate
+ 1356  rails generate model department
+ 1357  rails generate model departmnt
+ 1358  rails generate migration add_dp_column
+ 1359  rake db:migrate
+ 1360  rails generate migration add_rs_column
+ 1361  rake db:migrate
+ 1362  rails generate migration add_rss_column
+ 1363  rake db:migrate
+ 1364  rails c
+ 1365  rails generate migration add_rsst_column
+ 1366  rake db:migrate
+ 1367  rails generate migration add_jai_column
+ 1368  rake db:migrate
+ 1369  rails generate migration add_sid_column
+ 1370  rake db:migrate
+ 1371  rails generate migration add_sids_column
+ 1372  rake db:migrate
+ 1373  man rvm
+ 1374  rvm list
+ 1375  rvm use ruby-2.2.0
+ 1376  cd Rails_Project
+ 1377  cd Hr_Management
+ 1378  rails generate migration add_sids2_column
+ 1379  rake db:migrate
+ 1380  rails generate migration add_sidsss_column
+ 1381  rake db:migrate
+ 1382  rails generate migration add_sed_column
+ 1383  rake db:migrate
+ 1384  ls
+ 1385  rails c
+ 1386  rails delete model departmnt
+ 1387  rails destroy model departmnt
+ 1388  rails c
+ 1389  rails generate migration add_department_id_to_employees
+ 1390  rake db:migrate
+ 1391  rails c
+ 1392  history
+ 1393  rails c
+ 1394  history
+ 1395  rails c
+ 1396  cd ~
+ 1397  cd Rails_Project
+ 1398  history > hs.txt

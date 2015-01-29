@@ -1,0 +1,10 @@
+<center>
+<%= form_tag("/emp", method: "post") do %>
+<pre>
+ <h2><b><i>Name</i></b>:        <%= text_field_tag(:name) %><br></h2>
+  <h2><b><i>Phone_no</i></b>:   <%= text_field_tag(:ph) %><br></h2>
+  <h2><b><i>Email</i></b>:      <%= text_field_tag(:email) %><br></h2>
+  <h2><b><i>Address</i></b>:    <%= text_area_tag(:addr) %><br></h2>
+  <%= submit_tag("submit") %></pre>
+<% end %>
+</center>
