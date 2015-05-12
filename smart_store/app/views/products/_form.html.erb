@@ -1,0 +1,32 @@
+<%= simple_form_for @product, :html => { :class => "form-horizontal product" } do |f| %>
+
+    <% if @product.errors.any? %>
+    <div id="error_expl" class="panel panel-danger">
+      <div class="panel-heading">
+        <h3 class="panel-title"><%= pluralize(@product.errors.count, "error") %> prohibited this product from being saved:</h3>
+      </div>
+      <div class="panel-body">
+        <ul>
+        <% @product.errors.full_messages.each do |msg| %>
+          <li><%= msg %></li>
+        <% end %>
+        </ul>
+      </div>
+    </div>
+  <% end %>
+
+    <%= f.input :name %>
+    <%= f.input :price, hint: "price should be in USD" %>
+
+     <%#= f.input :released_on, label: "Release Date" %>
+  <%#= f.input :discontinued %>
+  <%#= f.input :rating %>
+  <%#= f.association :publisher %>
+  <%#= f.association :categories, as: :check_boxes %>
+  <%#= f.button :submit %>
+
+  <%= f.submit nil, :class => 'btn btn-primary' %>
+  <%= link_to t('.cancel', :default => t("helpers.links.cancel")),
+            products_path, :class => 'btn btn-default' %>
+
+<% end %>
